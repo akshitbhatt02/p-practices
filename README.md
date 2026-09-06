@@ -8,15 +8,14 @@ This repo tracks my day-to-day Python learning journey. It's not meant to be a p
 
 ## Structure
 
-python-programming-practices/
+`python-programming-practices/
 ├── basics/ # Variables, loops, conditionals, functions
 ├── data-structures/ # Lists, dicts, sets, tuples
 ├── exercises/ # CS50P and other course exercises
 ├── mini-projects/ # Small standalone scripts and tools
-└── notes.md # Concepts and gotchas worth remembering
+└── notes.md # Concepts and gotchas worth remembering`
 
 
-*(adjust folder names to whatever you actually create — this is just a starting structure)*
 
 ## What I'm learning
 
